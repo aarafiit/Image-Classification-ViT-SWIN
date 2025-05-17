@@ -54,5 +54,6 @@ The model can detect the following radiological findings:
 - No finding
 
 
-
+```bash
 Notebook Link : https://www.kaggle.com/code/abdullahalrafi143/finalcodebase
+```
