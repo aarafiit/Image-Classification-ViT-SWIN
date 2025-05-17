@@ -51,4 +51,8 @@ The model can detect the following radiological findings:
 - Pleural thickening
 - Pneumothorax
 - Pulmonary fibrosis
-- No finding 
+- No finding
+
+
+
+Notebook Link : https://www.kaggle.com/code/abdullahalrafi143/finalcodebase
